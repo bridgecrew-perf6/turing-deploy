@@ -4,7 +4,9 @@
 #环境需求
 
 
-ubuntu 18.04  python3.6
+ubuntu 18.04  
+
+python3.6
 
 
 #配置参数
