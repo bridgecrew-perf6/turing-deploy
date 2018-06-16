@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/bin/python3 /mnt/main.py
+/usr/bin/python3 main.py
