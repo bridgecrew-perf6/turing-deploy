@@ -3,27 +3,38 @@
 
 #环境需求
 
+
 ubuntu 18.04  python3.6
+
 
 #配置参数
 
+
 配置 source/turing/config.py文件即可
+
 
 #安装项目依赖模块
 
+
 pip3 install -r requirements.txt
+
 
 #开启web服务
 
+
 python3  source/main.py
 
+
 #测试web服务
+
 
 浏览器输入
 
 http://localhost:9050/
 
+
 #日志
+
 
 在/tmp目录下， turing_server.log"
 
@@ -33,6 +44,8 @@ http://localhost:9050/
 
 
 #接口使用说明：
+
+
 注意： 示例中的token为实时生成。实际使用时，需要替换成自己的token。
 
 1、登录，获取token。所有用户权限。
