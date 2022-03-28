@@ -1,10 +1,9 @@
-tornado==5.0.2
-pytz==2018.4
-traitlets==4.3.2
-SQLAlchemy==1.2.8
-PyMySQL==0.8.1
-PyJWT==1.6.4
-
+tornado==6.1
+pytz==2022.1
+traitlets==5.1.1
+SQLAlchemy==1.4.32
+PyMySQL==1.0.2
+PyJWT==2.3.0
 
 
 
